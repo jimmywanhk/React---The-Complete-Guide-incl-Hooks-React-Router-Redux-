@@ -1,4 +1,15 @@
-Section 4, 5 - React State, Conditional Content
-Section 6 - Styling React Components
-Section 8, 9 - Fragments, Portals, Refs
-Section 10 - Handling Side Effects, Using Reducers and Using the Context API
+Section 4: React State & Working with Events
+Section 5: Rendering Lists & Conditional Content
+Section 6: Styling React Components
+Section 8: Time to Practice: A Complete Practice Project
+Section 9: Fragments, Portals, Refs
+Section 10: Handling Side Effects, Using Reducers and Using the Context API
+Section 11: Practice Project: Building a Food Order App
+Section 12: A Look Behind The Scenes Of React & Optimization Techniques
+Section 13: An Alternative Way Of Building Components: Class-based Components
+Section 14: Sending Http Requests (e.g. Connecting to a Database)
+Section 15: Building Custom React Hooks
+Section 16: Working with Forms & User Input
+Section 17: Practice Project: Adding Http & Forms To The Food Order App
+Section 18: Diving into Redux (An Alternative To The Context API)
+Section 19: Advanced Redux
