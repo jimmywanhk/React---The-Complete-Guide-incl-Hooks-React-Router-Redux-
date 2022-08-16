@@ -15,3 +15,4 @@ Section 18: Diving into Redux (An Alternative To The Context API)
 Section 19: Advanced Redux
 Section 20: Building a Multi-Page SPA with React Router
 Section 21: Deploying React Apps
+Section 22: Adding Authentication To React Apps
